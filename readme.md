@@ -6,16 +6,22 @@
 
 #### Elapsed time = 17.1513s
 
-[Serial Output](./serial.png)
+![Serial Output](./serial.png)
+
+
+<br/>
 
 ### Parallel Computing using OpenMP
 
 #### Elapsed time = 2.55065s
 
-[Parallel Output using OpenMP](./poissonOpenMP.jpeg)
+![Parallel Output using OpenMP](./poissonOpenMP.jpeg)
+
+
+<br/>
 
 ### Parallel Computing using MPI
 
 #### Elapsed time = 0.024964s
 
-[Parallel Output using MPI](./MPI.png)
+![Parallel Output using MPI](./MPI.png)
